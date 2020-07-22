@@ -19,7 +19,7 @@ public class InstagramKitConstants {
 
     public static String kKeyClientID = "client_id";
     public static String kKeyAccessToken = "access_token";
-    public static String kKeychainTokenKey = "token";
+    public static String kKeychainTokenKey = "code";
     public static String kSessionKey = "session";
 
     public static String kPagination = "pagination";
