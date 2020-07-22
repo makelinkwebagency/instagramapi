@@ -7,7 +7,7 @@ public class InstagramKitLoginScope {
 
     //"basic", @"comments", @"relationships", @"likes", "public_access"
 
-    static public String BASIC = "basic";
+    static public String BASIC = "user_profile,user_media";
     static public String COMMENTS = "comments";
     static public String RELATIONSHIP = "relationships";
     static public String LIKES = "likes";
